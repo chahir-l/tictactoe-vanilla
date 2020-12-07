@@ -1,0 +1,17 @@
+.main {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.main div {
+    width: 33%;
+    height: 100px;
+    border: 1px solid #000;
+}
+
+.case {
+    font-size: 5rem;
+    text-align: center;
+}
